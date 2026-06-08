@@ -40,6 +40,8 @@ The AI-Based Intelligent Robot for Restaurant Service is an embedded systems pro
 ## Screenshot images
 !``````<img width="864" height="903" alt="image" src="https://github.com/user-attachments/assets/7c7c6a67-5884-48dd-b82c-550fc52f9b4f" />
 !<img width="769" height="1600" alt="image" src="https://github.com/user-attachments/assets/aafcdd8d-7304-4e64-a25b-267e5bd64121" />
+!<img width="801" height="1164" alt="image" src="https://github.com/user-attachments/assets/d0c7a07e-00f1-4bf5-bf1f-ced67c8da51a" />
+
 
 
 
